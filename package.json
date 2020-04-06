@@ -1,0 +1,14 @@
+{
+  "name": "jexpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start":"node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "js-logger": "^1.6.0",
+    "socket.io": "^2.3.0"
+  }
+}
